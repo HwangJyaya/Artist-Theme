@@ -5,7 +5,7 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 # Jekyll Defaults
 title: Artist Theme
-email: your-email@domain.com
+email: hjh112345@gmail.com
 description: A small and simple site I made to test out Jekyll. Watch out! I'm going to make a material design theme next!
 baseurl: "http://localhost:3000" # the subpath of your site, e.g. /blog
 
